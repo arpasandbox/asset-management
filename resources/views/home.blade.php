@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Asset Management</title>
-</head>
-<body>
-    This is a homepage
-</body>
-</html>
+@include('header')
+<h1>This is Home page</h1>
+@include('footer')  
+    
